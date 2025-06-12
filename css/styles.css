@@ -1,0 +1,14 @@
+.alturaCarousel{
+   height: 91vh;
+}
+.tarjetaProductos{
+   width: 300px;
+   margin: 10px;
+}
+
+.card-img{
+   width: 250px;
+   height: 250px;
+   align-items: center;
+}
+
